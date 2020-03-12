@@ -1,2 +1,2 @@
 # Test Revolut application exchange screen
-![Demo](readme.png)
+<img src="./readme.png" width="350">
